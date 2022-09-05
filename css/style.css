@@ -75,6 +75,17 @@ th{
     background-color: yellow;
 }
 
+.next-article{
+    position: relative;
+    color: blue;
+}
+
+.next-title{
+    position:absolute;
+    top: 1px;
+    left: 1px;
+}
+
 #logo{
     width: 15%;
     height: 15%;
