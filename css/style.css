@@ -1,5 +1,6 @@
 *{
-    margin = 0;
+    margin : 0;
+    
 }
 
 body{
@@ -10,7 +11,20 @@ body{
 
 header{
     background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
+h1{
+    font-size: 5rem;
+}
+
+header p{
+    color: grey;
+    font-size: 1.5rem;
+}
+
+
 
 .booleaner-logo{
     padding-top: 50px;
@@ -19,4 +33,12 @@ header{
 #logo{
     width: 15%;
     height: 15%;
+}
+
+#credit{
+     color : rgb(78, 160, 255);
+}
+
+#date{
+    font-size: 1.2rem;
 }
