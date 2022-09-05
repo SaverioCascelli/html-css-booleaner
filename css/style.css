@@ -82,6 +82,7 @@ th{
 
 .next-title{
     position: absolute;
+    font-size: 1.5rem;
     top: 1px;
     left: 1px;
 }
