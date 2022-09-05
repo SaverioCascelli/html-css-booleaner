@@ -39,6 +39,27 @@ ul{
    padding-left: 20px;
 }
 
+thead{
+    background-color:rgb(32, 169, 229);
+    color: white;
+}
+
+.odd-row{
+    background-color: rgb(177, 229, 242);
+}
+
+.even-row{
+    background-color: white;
+}
+
+th{
+    width: 23%;
+    text-align: left;
+}
+
+.main-text{
+    width: 50%;
+}
 .booleaner-logo{
     padding-top: 50px;
 }
@@ -47,6 +68,7 @@ ul{
     height: 800px;
     width: 800px;
 }
+
 
 .yellow-marked{
     background-color: yellow;
@@ -64,3 +86,4 @@ ul{
 #date{
     font-size: 1.2rem;
 }
+
