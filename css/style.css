@@ -6,7 +6,7 @@
 
 body{
     background-image: url('/img/pattern.png');
-    background-color: rgb(78, 160, 255)
+    background-color: rgb(78, 160, 255);
 
 }
 
@@ -15,8 +15,12 @@ header,main,footer{
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 10px;
+
 }
 
+main{
+    font-size: 30px;
+}
 
 h1{
     font-size: 5rem;
